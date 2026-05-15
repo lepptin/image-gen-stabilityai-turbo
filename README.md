@@ -1,4 +1,8 @@
 ```markdown
+**A dynamic, CPU-driven Python script for local text-to-image generation on consumer hardware. Specially optimized for low-spec PCs to benchmark and run SDXL-Turbo, LCM Dreamshaper, and PixArt-Alpha without requiring a high-end dedicated GPU.**
+
+**Tüketici donanımlarında yerel olarak çalışan, CPU odaklı dinamik görsel üretim scripti. Yüksek performanslı bir harici GPU'ya ihtiyaç duymadan SDXL-Turbo, LCM ve PixArt modellerini düşük konfigürasyonlu bilgisayarlarda test etmek ve çalıştırmak için özel olarak optimize edilmiştir.**
+
 # CPU-Based Local Image Generator / CPU Tabanlı Yerel Görsel Üretici
 
 Welcome to this lightweight, CPU-optimized image generation repository. This project is designed for AI enthusiasts who want to experiment with text-to-image diffusion models locally on standard consumer hardware without requiring a high-end dedicated GPU.
